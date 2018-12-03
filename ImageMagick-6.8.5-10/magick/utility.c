@@ -35,11 +35,12 @@
 %
 %
 */
-
+
 /*
   Include declarations.
 */
 #include <string.h>
+#include <ctype.h>
 #include <stdio.h>
 #include "magick/studio.h"
 #include "magick/property.h"
